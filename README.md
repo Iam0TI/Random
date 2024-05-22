@@ -1,6 +1,6 @@
 # JUST RANDOM
 
-Hey there, welcome to your very own coding playground! This repository is your go-to spot for tinkering with code, experimenting with new ideas, and diving deeper into the wonderful world of Computer Science. Whether you're itching to try out something new or just want a space to mess around with code, you're in the right place.
+Hey there, welcome to my very own coding playground! This repository is my  go-to spot for tinkering with code, experimenting with new ideas, and diving deeper into the wonderful world of Computer Science. Whether you're itching to try out something new or just want a space to mess around with code, you're in the right place. Enjoy my journey from shitty to pro . 😁😁😁
 
 ## What's the Scoop?
 
