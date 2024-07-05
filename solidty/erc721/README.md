@@ -1,13 +1,7 @@
-# Sample Hardhat Project
+# My Implementation of the EIP721 Standard for ERC_721 Tokens
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a Hardhat Ignition module that deploys that contract.
+### Nahh this was a tough one but it was fun learning how to implement ERC_721 Tokens from scratch. 
 
-Try running some of the following tasks:
 
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat ignition deploy ./ignition/modules/Lock.js
-```
+
+Check out the standard  [here](https://eips.ethereum.org/EIPS/eip-721)
